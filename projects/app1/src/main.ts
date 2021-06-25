@@ -1,0 +1,1 @@
+import('./bootstrap').catch(err => new Error(err));
