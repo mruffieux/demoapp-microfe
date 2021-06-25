@@ -1,8 +1,8 @@
 # Demoapp-microfe
 
 ### Usage
-ℹ️ applications must be served independently or
-ℹ️ build all apps and ship them to firebase 🚀 
+
+> applications must be served independently or build the apps and ship them to firebase 🚀 
 
 ```shell
 gh repo clone mruffieux/demoapp-microfe
