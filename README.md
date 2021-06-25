@@ -7,6 +7,7 @@
 ```shell
 gh repo clone mruffieux/demoapp-microfe
 cd demoapp-microfe
+npm install
 ng serve app1
 ng serve app2
 ng serve app3
