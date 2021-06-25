@@ -2,7 +2,7 @@
 
 ### Usage
 
-> applications must be served independently or build the apps and ship them to firebase 🚀 
+> applications must be served independently
 
 ```shell
 gh repo clone mruffieux/demoapp-microfe
